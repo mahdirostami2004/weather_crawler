@@ -34,7 +34,27 @@
 
 ---
 
+## 📸 Chart Previews
+
+### 1. Current Temperature Comparison
+![Temp Bar Chart](analysis/01_temp_bar.png)
+
+### 2. 3-Day Forecast (Top 5 Hottest Cities)
+![Temp Trend](analysis/02_temp_trend.png)
+
+### 3. Multi‑Variable Heatmap
+![Heatmap](analysis/03_heatmap.png)
+
+### 4. Temperature vs. Humidity (Bubble = Wind)
+![Bubble Scatter](analysis/04_bubble_scatter.png)
+
+### 5. Dashboard Overview
+![Dashboard](analysis/05_dashboard.png)
+
+---
+
 ## Project Structure
+
 
 ```
 iran-weather-intelligence/
